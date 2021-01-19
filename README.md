@@ -1,5 +1,13 @@
 # Quiz App
 
+## First components to create
+
+- app-grid
+- navigation
+- quiz-card
+  - without bookmark
+  - answer-toggle via `details`-element
+
 ## Template usage
 
 _Don't forget to update the author (and more) in the package.json_
