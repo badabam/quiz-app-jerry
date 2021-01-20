@@ -1,0 +1,13 @@
+.navigation {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 2px;
+}
+
+.navigation__link {
+  background: #666;
+  text-decoration: none;
+  color: white;
+  flex-grow: 1;
+  text-align: center;
+}
