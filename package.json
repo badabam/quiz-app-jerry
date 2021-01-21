@@ -2,6 +2,7 @@
   "name": "quiz-app",
   "version": "0.0.1",
   "scripts": {
+    "build": "echo 'building the site'",
     "start": "live-server --no-css-inject --port=4000",
     "prettier:write": "prettier --write .",
     "stylelint": "npx stylelint \"**/*.css\"",
